@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/anasalkhatib/iPhone'
+let g:netrw_dirhist_2='/Users/anasalkhatib/iPhone/AMT'
+let g:netrw_dirhist_3='/Users/anasalkhatib/iPhone/AMT/AMT_Schedule'
+let g:netrw_dirhist_4='/Users/anasalkhatib/iPhone/AMT'
+let g:netrw_dirhist_5='/Users/anasalkhatib/iPhone/AMT/amt_scrape'
+let g:netrw_dirhist_6='/Users/anasalkhatib/Code/Assignment_3_Shawn_Korin_Tareq_Rajabi.rar Folder'
+let g:netrw_dirhist_7='/Users/anasalkhatib/iPhone/AMT/amt_scrape/Test'
+let g:netrw_dirhist_8='/Users/anasalkhatib/.vimperator/info/default'
+let g:netrw_dirhist_9='/Users/anasalkhatib/iPhone/AMT/amt_scrape/final'
